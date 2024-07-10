@@ -1,6 +1,8 @@
-## 
+## Intro
 
-I'm taking the "JavaScript Algorithms and Data Structures (Beta)" course on freeCodeCamp, and I'm excited to share my journey of learning JavaScript! 
+Hey^^ I'm taking the "JavaScript Algorithms and Data Structures (Beta)" course on freeCodeCamp
+
+and I'm excited to share my journey of learning JavaScript! 
 
 In this project is I have learned how to work with DOM manipulation, object destructuring, event handling, and data filtering.
 
