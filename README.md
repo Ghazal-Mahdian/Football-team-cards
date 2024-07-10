@@ -4,7 +4,7 @@ Hey^^ I'm taking the "JavaScript Algorithms and Data Structures (Beta)" course o
 
 and I'm excited to share my journey of learning JavaScript! 
 
-In this project is I have learned how to work with DOM manipulation, object destructuring, event handling, and data filtering.
+In this project I have learned how to work with DOM manipulation, object destructuring, event handling, and data filtering.
 
 
 ## Demo
