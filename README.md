@@ -1,22 +1,22 @@
-## Intro
 
-Hey^^ I'm taking the "JavaScript Algorithms and Data Structures (Beta)" course on freeCodeCamp
+## Intro [![View](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/hand.png)]
 
-and I'm excited to share my journey of learning JavaScript! 
+Hey there! I'm currently enrolled in the "JavaScript Algorithms and Data Structures (Beta)" course on freeCodeCamp, 
+and I'm thrilled to share my journey of learning JavaScript!
 
-In this project I have learned how to work with DOM manipulation, object destructuring, event handling, and data filtering.
+
+## Football-team-cards
+
+In this project, I learned how to manipulate the DOM, destructure objects, handle events, and filter data.
 
 
 ## Demo
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://raw.githack.com/Ghazal-Mahdian/Football-team-cards/main/index.html)
+[![View](https://github.com/Ghazal-Mahdian/Football-team-cards/blob/main/images/view%20(1).png)](https://raw.githack.com/Ghazal-Mahdian/Football-team-cards/main/index.html)
 
-![javascript](https://github.com/Ghazal-Mahdian/Football-team-cards/blob/main/football-team-cards.png)
+[![javascript](https://github.com/Ghazal-Mahdian/Football-team-cards/blob/main/images/football-team-cards.png)](https://raw.githack.com/Ghazal-Mahdian/Football-team-cards/main/index.html)
 
 
 ## Source
 
- * This code is based on the freeCodeCamp project.
- * Original code: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-modern-javascript-methods-by-building-football-team-cards
- * Licensed under the MIT License.
- * Copyright (c) 2024 freeCodeCamp.
+[![View](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/web.png)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-modern-javascript-methods-by-building-football-team-cards)
    
